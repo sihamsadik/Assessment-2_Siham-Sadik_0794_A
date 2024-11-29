@@ -1,0 +1,179 @@
+*{
+    margin: 0px;
+    
+}
+
+body{
+    margin-left: 40px;
+    
+}
+main , h1{
+    margin-left: 50px;
+    
+}
+aside{
+    margin-left: 100px;
+}
+aside ul{
+    padding-left: 0px;
+}
+
+.width{
+    width: 700px;
+    
+}
+.width p{
+    margin: 10px;
+    margin-left: 0px;
+}
+ul{
+    list-style-type: none;
+}
+h2 , a{
+    color:  rgb(101, 197, 5);
+}
+h2 {
+    margin : 20px 0px;
+ }
+ l{
+    list-style-type: none;
+}
+nav ul{
+    display: flex;
+    
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: rgb(101, 197, 5);
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+    margin: 10px;
+}
+.button:hover {
+    background-color: rgb(245, 127, 43);;
+}
+
+ .div h2 {
+    color: white;
+    margin-left: 0px;
+ }
+
+
+header , .div{
+    background: rgb(20, 46, 20);
+    color: white;
+    
+    
+}
+header p{
+    text-align: center;
+}
+em{
+    color: rgb(245, 127, 43);
+    font-style: normal;
+
+}
+ 
+ .flex input{
+    width: 400px;
+    margin: 10px;
+    height: 20px;
+    margin-bottom: 20px;
+    margin-left: 0px;
+
+ }
+ aside p{
+    color: rgba(18, 13, 13,0.553);
+ }
+ .flex button{
+    margin: 10px;
+    margin-bottom: 20px;
+ }
+ .div section{
+    margin-left: 50px;
+
+ }
+ 
+ .div p {
+    width: 100%;
+ }
+
+#height{
+    height: 200px;
+}
+.div img{
+    width: 70px;
+    margin: 10PX;
+    height: 70px;
+    margin-left: 0px;
+}
+.flex{
+    display: flex;
+    
+}
+.flex section{
+    margin: 0px 50px;
+    margin-left: 0px;
+}
+.div section{
+    width: 300px;
+    margin: 0px 3% ;
+    margin-left: 50px;
+ }
+ 
+ 
+p{
+    
+    text-align: justify;
+     word-break: break-all; 
+     margin: 10px 0px;
+   
+    
+}
+footer{
+    background-color: black;
+    color: white;
+    display: flex;
+}
+footer ul{
+    display: flex;
+    justify-self: right;
+    margin: 10px;
+    margin-left: 46%;
+    margin-right: 0px;
+    padding: 0px;
+
+
+}
+/* footer ul{
+    display: flex;
+    justify-self: right; 
+    /* margin-left: 50%; */
+
+/* } */ 
+ /* footer p{
+    /* margin: 15px;
+    margin-top: 20px; */
+    /* margin-left: 15%; */
+    footer{
+        padding-left: 40px;
+
+    }
+
+footer li{
+    
+    margin: 0px 10px;
+
+} 
+footer a{
+    
+    text-decoration: none;
+
+    }
+
+

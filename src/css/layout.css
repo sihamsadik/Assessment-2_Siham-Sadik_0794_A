@@ -1,0 +1,27 @@
+.flex section {
+    margin-right: 40px;
+    
+}
+
+.flex p , .flex img , .flex h3{
+    width: 300px;
+    height: auto;
+    margin-top: 10px;
+}
+
+.height{
+    height: 100px;
+}
+h2 , p{
+    margin: 10px 0px;
+    /* margin-left: 0px; */
+}
+/* .div p{
+    margin: 0px;
+} */
+
+
+
+/* .margin{
+    margin: 10px;
+} */
